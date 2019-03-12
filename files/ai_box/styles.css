@@ -382,3 +382,56 @@
   width:97px;
   word-wrap:break-word;
 }
+#u17_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:97px;
+  height:19px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:16px;
+  color:#CCCCCC;
+  text-align:center;
+}
+#u17 {
+  position:absolute;
+  left:860px;
+  top:19px;
+  width:97px;
+  height:19px;
+  font-size:16px;
+  color:#CCCCCC;
+  text-align:center;
+}
+#u17_div.selected {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:97px;
+  height:19px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:16px;
+  color:#CCCCCC;
+  text-align:center;
+}
+#u17.selected {
+}
+#u18 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:97px;
+  word-wrap:break-word;
+}
