@@ -17,7 +17,7 @@
   left:0px;
   top:0px;
   width:1010px;
-  height:950px;
+  height:850px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   box-sizing:border-box;
@@ -34,12 +34,12 @@
   left:0px;
   top:0px;
   width:1010px;
-  height:950px;
+  height:850px;
 }
 #u1047 {
   position:absolute;
   left:2px;
-  top:467px;
+  top:417px;
   width:1006px;
   visibility:hidden;
   word-wrap:break-word;
@@ -139,7 +139,7 @@
 #u1052 {
   position:absolute;
   left:761px;
-  top:843px;
+  top:752px;
   width:85px;
   height:34px;
   font-family:'PingFang SC Regular', 'PingFang SC';
@@ -176,7 +176,7 @@
 #u1054 {
   position:absolute;
   left:891px;
-  top:843px;
+  top:752px;
   width:85px;
   height:34px;
   font-family:'PingFang SC Regular', 'PingFang SC';
@@ -193,7 +193,7 @@
 #u1056 {
   position:absolute;
   left:17px;
-  top:326px;
+  top:235px;
   width:964px;
   height:428px;
 }
@@ -1465,7 +1465,7 @@
 #u1157 {
   position:absolute;
   left:123px;
-  top:76px;
+  top:135px;
   width:150px;
   height:35px;
 }
@@ -1487,7 +1487,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:85px;
+  width:99px;
   height:16px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -1500,15 +1500,15 @@
 #u1158 {
   position:absolute;
   left:20px;
-  top:85px;
-  width:85px;
+  top:144px;
+  width:99px;
   height:16px;
 }
 #u1159 {
   position:absolute;
   left:0px;
   top:0px;
-  width:85px;
+  width:99px;
   white-space:nowrap;
 }
 #u1160_img {
@@ -1521,7 +1521,7 @@
 #u1160 {
   position:absolute;
   left:780px;
-  top:366px;
+  top:275px;
   width:70px;
   height:70px;
 }
@@ -1543,7 +1543,7 @@
 #u1162 {
   position:absolute;
   left:889px;
-  top:366px;
+  top:275px;
   width:70px;
   height:70px;
 }
@@ -1565,7 +1565,7 @@
 #u1164 {
   position:absolute;
   left:780px;
-  top:459px;
+  top:368px;
   width:70px;
   height:70px;
 }
@@ -1587,7 +1587,7 @@
 #u1166 {
   position:absolute;
   left:889px;
-  top:459px;
+  top:368px;
   width:70px;
   height:70px;
 }
@@ -1623,7 +1623,7 @@
 #u1168 {
   position:absolute;
   left:20px;
-  top:775px;
+  top:684px;
   width:332px;
   height:28px;
   font-family:'微软雅黑';
@@ -1667,7 +1667,7 @@
 #u1170 {
   position:absolute;
   left:20px;
-  top:775px;
+  top:684px;
   width:35px;
   height:28px;
   font-family:'微软雅黑';
@@ -1734,7 +1734,7 @@
 #u1172 {
   position:absolute;
   left:55px;
-  top:775px;
+  top:684px;
   width:35px;
   height:28px;
   font-family:'微软雅黑';
@@ -1796,7 +1796,7 @@
 #u1174 {
   position:absolute;
   left:89px;
-  top:775px;
+  top:684px;
   width:35px;
   height:28px;
   font-family:'微软雅黑';
@@ -1858,7 +1858,7 @@
 #u1176 {
   position:absolute;
   left:123px;
-  top:775px;
+  top:684px;
   width:35px;
   height:28px;
   font-family:'微软雅黑';
@@ -1920,7 +1920,7 @@
 #u1178 {
   position:absolute;
   left:157px;
-  top:775px;
+  top:684px;
   width:35px;
   height:28px;
   font-family:'微软雅黑';
@@ -1982,7 +1982,7 @@
 #u1180 {
   position:absolute;
   left:191px;
-  top:775px;
+  top:684px;
   width:44px;
   height:28px;
   font-family:'微软雅黑';
@@ -2021,7 +2021,7 @@
 #u1182 {
   position:absolute;
   left:234px;
-  top:775px;
+  top:684px;
   width:54px;
   height:28px;
   font-family:'微软雅黑';
@@ -2060,7 +2060,7 @@
 #u1184 {
   position:absolute;
   left:287px;
-  top:775px;
+  top:684px;
   width:65px;
   height:28px;
   font-family:'微软雅黑';
@@ -2084,8 +2084,8 @@
 }
 #u1186 {
   position:absolute;
-  left:19px;
-  top:167px;
+  left:340px;
+  top:73px;
   width:561px;
   height:115px;
 }
@@ -2113,8 +2113,8 @@
 }
 #u1188 {
   position:absolute;
-  left:20px;
-  top:141px;
+  left:21px;
+  top:85px;
   width:99px;
   height:16px;
 }
@@ -2142,7 +2142,7 @@
 #u1190 {
   position:absolute;
   left:20px;
-  top:300px;
+  top:209px;
   width:99px;
   height:16px;
 }
@@ -2152,4 +2152,35 @@
   top:0px;
   width:99px;
   white-space:nowrap;
+}
+#u1192_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:150px;
+  height:40px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:5px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u1192 {
+  position:absolute;
+  left:124px;
+  top:73px;
+  width:150px;
+  height:40px;
+}
+#u1193 {
+  position:absolute;
+  left:2px;
+  top:12px;
+  width:146px;
+  word-wrap:break-word;
 }
